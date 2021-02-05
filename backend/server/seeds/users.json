@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "5e3b0595e6cecd6b325efbb7",
+      "name": "stel",
+      "email": "stn@tms.com",
+      "password": "$2a$10$W7X1wszosu3UGWBNmgDQduUAsLPP4Kt9jU5f9L6QVn7YskfddNi3y",
+      "date": "2020-02-05T18:12:37.407Z",
+      "isAdmin": true
+    },
+    {
+      "_id": "5e3b3377d4e0e69042eaad10",
+      "name": "john",
+      "email": "john@tms.com",
+      "password": "$2a$10$CZuKrp.lLSvDEB4hNB1Rju68dSsESS7R4Zj50SY6UqSeXZ.SdhJ2W",
+      "date": "2020-02-05T21:28:23.088Z",
+      "isAdmin": false
+    },
+    {
+      "_id": "5e3b3afa21cca09e1a558978",
+      "name": "emily",
+      "email": "emily@tms.com",
+      "password": "$2a$10$Ud39EMJGZ9xlBYRe7yNe.OP1oumacpMsZNuSxEXe.DgM0krOc8pxe",
+      "date": "2020-02-05T22:00:26.961Z",
+      "isAdmin": false
+    }
+  ]
