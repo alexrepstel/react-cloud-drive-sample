@@ -1,6 +1,4 @@
 Stelios Alexandrou
-b700148
-
 
 Build & run instructions:
 	
